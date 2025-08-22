@@ -24,7 +24,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/manisharma/msbotbuilder-go/connector/auth"
+	"github.com/infracloudio/msbotbuilder-go/connector/auth"
 )
 
 // Config represents the credentials for a user program and the URL for validating the credentials.

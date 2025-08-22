@@ -20,7 +20,7 @@
 package activity
 
 import (
-	"github.com/manisharma/msbotbuilder-go/schema"
+	"github.com/infracloudio/msbotbuilder-go/schema"
 )
 
 // MsgOption option provided when sending an activity.

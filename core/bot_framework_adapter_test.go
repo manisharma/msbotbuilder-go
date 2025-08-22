@@ -28,11 +28,11 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/manisharma/msbotbuilder-go/connector/auth"
-	"github.com/manisharma/msbotbuilder-go/connector/client"
-	"github.com/manisharma/msbotbuilder-go/core"
-	"github.com/manisharma/msbotbuilder-go/core/activity"
-	"github.com/manisharma/msbotbuilder-go/schema"
+	"github.com/infracloudio/msbotbuilder-go/connector/auth"
+	"github.com/infracloudio/msbotbuilder-go/connector/client"
+	"github.com/infracloudio/msbotbuilder-go/core"
+	"github.com/infracloudio/msbotbuilder-go/core/activity"
+	"github.com/infracloudio/msbotbuilder-go/schema"
 
 	"github.com/stretchr/testify/assert"
 )

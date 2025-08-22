@@ -1,4 +1,4 @@
-module github.com/manisharma/msbotbuilder-go
+module github.com/infracloudio/msbotbuilder-go
 
 go 1.16
 
